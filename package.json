@@ -41,6 +41,6 @@
     "grunt-contrib-uglify": "^0.6.0"
   },
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install --allow-root"
   }
 }
